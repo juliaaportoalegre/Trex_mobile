@@ -133,7 +133,7 @@ function gerarNuvens() {
     nuvem.velocityX = -3;
     
      //atribuir tempo de duração à variável
-    nuvem.lifetime = 200; 
+    nuvem.lifetime = 600; 
     
     //ajustando a profundidade
     nuvem.depth = trex.depth;
